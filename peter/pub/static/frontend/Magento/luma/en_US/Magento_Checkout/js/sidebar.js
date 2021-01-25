@@ -1,0 +1,1 @@
+/var/www/peter/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js
